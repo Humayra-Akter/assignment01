@@ -7,7 +7,7 @@ h1{
     font-family: sans-serif;
 }
 .heading-color{
-    color: blueviolet;
+    color: rgb(124, 107, 7);
 }
 .anchor-style{
     text-decoration: none;
@@ -17,7 +17,7 @@ h1{
  rgba(117, 115, 4, 0.7)
 );
 }
-section{
+.executable-part{
     display: flex;
 }
 p{
@@ -31,4 +31,34 @@ body{
 }
 .half img{
     width: 100%;
+}
+
+.align-heading{
+    text-align: center;
+}
+.flex{
+    width: 100%;
+    display: flex;
+}
+.icon{
+    height: 100px;
+    width: 100px;
+}
+#block-one{
+    background-color: lavender;
+    border-radius: 5%;
+    padding: 20px 20px;
+    margin: 10px;
+}
+#block-two{
+    background-color: cornsilk;
+    border-radius: 5%;
+    padding: 20px 20px;
+    margin: 10px;
+}
+#block-three{
+    background-color: darkgray;
+    border-radius: 5%;
+    padding: 20px 20px;
+    margin: 10px;
 }
