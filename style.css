@@ -3,8 +3,9 @@
   height: 70px;
 }
 h1{
-    font-weight: bold 900;
+    font-weight: strong 900;
     font-family: sans-serif;
+    font-size: 35px;
 }
 .heading-color{
     color: rgb(124, 107, 7);
@@ -19,9 +20,12 @@ h1{
 }
 .executable-part{
     display: flex;
+    margin-bottom: 150px;
+    margin-right: 10px;
 }
 p{
     padding-left: 10px;
+    font-size: 20px;
 }
 body{
     padding: 20px;
@@ -30,7 +34,7 @@ body{
     width: 50%;
 }
 .half img{
-    width: 100%;
+    width: 90%;
 }
 
 .align-heading{
@@ -61,4 +65,7 @@ body{
     border-radius: 5%;
     padding: 20px 20px;
     margin: 10px;
+}
+.boxes{
+    margin-bottom: 150px;
 }
