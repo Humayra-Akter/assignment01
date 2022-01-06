@@ -1,6 +1,7 @@
 #verticle-margin{
     border-left: 6px solid green;
-  height: 70px;
+  height: 120px;
+  margin-bottom: 10px;
 }
 h1{
     font-weight: strong 900;
@@ -68,4 +69,16 @@ body{
 }
 .boxes{
     margin-bottom: 150px;
+}
+.ending{
+    background-color: rgb(180, 180, 38);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+#foot{
+    font-family: fantasy;
+}
+.color{
+    color: white;
 }
